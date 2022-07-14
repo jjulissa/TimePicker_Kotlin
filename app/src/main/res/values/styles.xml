@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TimePicker" parent="android:Theme.Material.Light.Dialog">
+        <item name="android:colorAccent">#04F9EE</item>
+    </style>
+</resources>
